@@ -1,0 +1,47 @@
+E:\MVS\MVS 2022\Projects\C#\ItTop\ADO.Net\Модуль 3\Sample_1\Sample_1\bin\Debug\Sample_1.exe.config
+E:\MVS\MVS 2022\Projects\C#\ItTop\ADO.Net\Модуль 3\Sample_1\Sample_1\bin\Debug\Sample_1.exe
+E:\MVS\MVS 2022\Projects\C#\ItTop\ADO.Net\Модуль 3\Sample_1\Sample_1\bin\Debug\Sample_1.pdb
+E:\MVS\MVS 2022\Projects\C#\ItTop\ADO.Net\Модуль 3\Sample_1\Sample_1\obj\Debug\Sample_1.csproj.AssemblyReference.cache
+E:\MVS\MVS 2022\Projects\C#\ItTop\ADO.Net\Модуль 3\Sample_1\Sample_1\obj\Debug\Sample_1.Form1.resources
+E:\MVS\MVS 2022\Projects\C#\ItTop\ADO.Net\Модуль 3\Sample_1\Sample_1\obj\Debug\Sample_1.Properties.Resources.resources
+E:\MVS\MVS 2022\Projects\C#\ItTop\ADO.Net\Модуль 3\Sample_1\Sample_1\obj\Debug\Sample_1.csproj.GenerateResource.cache
+E:\MVS\MVS 2022\Projects\C#\ItTop\ADO.Net\Модуль 3\Sample_1\Sample_1\obj\Debug\Sample_1.csproj.CoreCompileInputs.cache
+E:\MVS\MVS 2022\Projects\C#\ItTop\ADO.Net\Модуль 3\Sample_1\Sample_1\obj\Debug\Sample_1.exe
+E:\MVS\MVS 2022\Projects\C#\ItTop\ADO.Net\Модуль 3\Sample_1\Sample_1\obj\Debug\Sample_1.pdb
+E:\MVS\MVS 2022\Projects\C#\ItTop\ADO.Net\Модуль 3\Sample_1\Sample_1\obj\Debug\Sample_1.Form2.resources
+E:\MVS\MVS 2022\Projects\C#\ItTop\ADO.Net\Модуль 3\Sample_1\Sample_1\obj\Debug\Sample_1.Form3.resources
+E:\MVS\MVS 2022\Projects\C#\ItTop\ADO.Net\Модуль 3\Sample_1\Sample_1\obj\Debug\Sample_1.Form4.resources
+E:\MVS\MVS 2022\Projects\C#\ItTop\ADO.Net\Модуль 3\Sample_1\Sample_1\obj\Debug\Sample_1.Form5.resources
+E:\MVS\MVS 2022\Projects\C#\ItTop\ADO.Net\Модуль 3\Sample_1\Sample_1\obj\Debug\Sample_1.MainMenu.resources
+E:\MVS\MVS 2022\Projects\C#\ItTop\ADO.Net\Модуль 3 (Фабрика, асинхронные методы)\Sample_1\Sample_1\bin\Debug\Sample_1.exe.config
+E:\MVS\MVS 2022\Projects\C#\ItTop\ADO.Net\Модуль 3 (Фабрика, асинхронные методы)\Sample_1\Sample_1\bin\Debug\Sample_1.exe
+E:\MVS\MVS 2022\Projects\C#\ItTop\ADO.Net\Модуль 3 (Фабрика, асинхронные методы)\Sample_1\Sample_1\bin\Debug\Sample_1.pdb
+E:\MVS\MVS 2022\Projects\C#\ItTop\ADO.Net\Модуль 3 (Фабрика, асинхронные методы)\Sample_1\Sample_1\obj\Debug\Sample_1.csproj.AssemblyReference.cache
+E:\MVS\MVS 2022\Projects\C#\ItTop\ADO.Net\Модуль 3 (Фабрика, асинхронные методы)\Sample_1\Sample_1\obj\Debug\Sample_1.Form1.resources
+E:\MVS\MVS 2022\Projects\C#\ItTop\ADO.Net\Модуль 3 (Фабрика, асинхронные методы)\Sample_1\Sample_1\obj\Debug\Sample_1.Form2.resources
+E:\MVS\MVS 2022\Projects\C#\ItTop\ADO.Net\Модуль 3 (Фабрика, асинхронные методы)\Sample_1\Sample_1\obj\Debug\Sample_1.Form3.resources
+E:\MVS\MVS 2022\Projects\C#\ItTop\ADO.Net\Модуль 3 (Фабрика, асинхронные методы)\Sample_1\Sample_1\obj\Debug\Sample_1.Form4.resources
+E:\MVS\MVS 2022\Projects\C#\ItTop\ADO.Net\Модуль 3 (Фабрика, асинхронные методы)\Sample_1\Sample_1\obj\Debug\Sample_1.Form5.resources
+E:\MVS\MVS 2022\Projects\C#\ItTop\ADO.Net\Модуль 3 (Фабрика, асинхронные методы)\Sample_1\Sample_1\obj\Debug\Sample_1.Form6.resources
+E:\MVS\MVS 2022\Projects\C#\ItTop\ADO.Net\Модуль 3 (Фабрика, асинхронные методы)\Sample_1\Sample_1\obj\Debug\Sample_1.MainMenu.resources
+E:\MVS\MVS 2022\Projects\C#\ItTop\ADO.Net\Модуль 3 (Фабрика, асинхронные методы)\Sample_1\Sample_1\obj\Debug\Sample_1.Properties.Resources.resources
+E:\MVS\MVS 2022\Projects\C#\ItTop\ADO.Net\Модуль 3 (Фабрика, асинхронные методы)\Sample_1\Sample_1\obj\Debug\Sample_1.csproj.GenerateResource.cache
+E:\MVS\MVS 2022\Projects\C#\ItTop\ADO.Net\Модуль 3 (Фабрика, асинхронные методы)\Sample_1\Sample_1\obj\Debug\Sample_1.csproj.CoreCompileInputs.cache
+E:\MVS\MVS 2022\Projects\C#\ItTop\ADO.Net\Модуль 3 (Фабрика, асинхронные методы)\Sample_1\Sample_1\obj\Debug\Sample_1.exe
+E:\MVS\MVS 2022\Projects\C#\ItTop\ADO.Net\Модуль 3 (Фабрика, асинхронные методы)\Sample_1\Sample_1\obj\Debug\Sample_1.pdb
+D:\ADO.Net\MVS projects\Модуль 3 (Фабрика, асинхронные методы)\Sample_ALL\Sample_1\bin\Debug\Sample_1.exe.config
+D:\ADO.Net\MVS projects\Модуль 3 (Фабрика, асинхронные методы)\Sample_ALL\Sample_1\bin\Debug\Sample_1.exe
+D:\ADO.Net\MVS projects\Модуль 3 (Фабрика, асинхронные методы)\Sample_ALL\Sample_1\bin\Debug\Sample_1.pdb
+D:\ADO.Net\MVS projects\Модуль 3 (Фабрика, асинхронные методы)\Sample_ALL\Sample_1\obj\Debug\Sample_1.csproj.AssemblyReference.cache
+D:\ADO.Net\MVS projects\Модуль 3 (Фабрика, асинхронные методы)\Sample_ALL\Sample_1\obj\Debug\Sample_1.Form1.resources
+D:\ADO.Net\MVS projects\Модуль 3 (Фабрика, асинхронные методы)\Sample_ALL\Sample_1\obj\Debug\Sample_1.Form2.resources
+D:\ADO.Net\MVS projects\Модуль 3 (Фабрика, асинхронные методы)\Sample_ALL\Sample_1\obj\Debug\Sample_1.Form3.resources
+D:\ADO.Net\MVS projects\Модуль 3 (Фабрика, асинхронные методы)\Sample_ALL\Sample_1\obj\Debug\Sample_1.Form4.resources
+D:\ADO.Net\MVS projects\Модуль 3 (Фабрика, асинхронные методы)\Sample_ALL\Sample_1\obj\Debug\Sample_1.Form5.resources
+D:\ADO.Net\MVS projects\Модуль 3 (Фабрика, асинхронные методы)\Sample_ALL\Sample_1\obj\Debug\Sample_1.Form6.resources
+D:\ADO.Net\MVS projects\Модуль 3 (Фабрика, асинхронные методы)\Sample_ALL\Sample_1\obj\Debug\Sample_1.MainMenu.resources
+D:\ADO.Net\MVS projects\Модуль 3 (Фабрика, асинхронные методы)\Sample_ALL\Sample_1\obj\Debug\Sample_1.Properties.Resources.resources
+D:\ADO.Net\MVS projects\Модуль 3 (Фабрика, асинхронные методы)\Sample_ALL\Sample_1\obj\Debug\Sample_1.csproj.GenerateResource.cache
+D:\ADO.Net\MVS projects\Модуль 3 (Фабрика, асинхронные методы)\Sample_ALL\Sample_1\obj\Debug\Sample_1.csproj.CoreCompileInputs.cache
+D:\ADO.Net\MVS projects\Модуль 3 (Фабрика, асинхронные методы)\Sample_ALL\Sample_1\obj\Debug\Sample_1.exe
+D:\ADO.Net\MVS projects\Модуль 3 (Фабрика, асинхронные методы)\Sample_ALL\Sample_1\obj\Debug\Sample_1.pdb

@@ -1,0 +1,15 @@
+D:\ADO.Net\MVS projects\Модуль 3 (Фабрика, асинхронные методы)\SampleAsync\SampleAsync\bin\Debug\net8.0\SampleAsync.exe
+D:\ADO.Net\MVS projects\Модуль 3 (Фабрика, асинхронные методы)\SampleAsync\SampleAsync\bin\Debug\net8.0\SampleAsync.deps.json
+D:\ADO.Net\MVS projects\Модуль 3 (Фабрика, асинхронные методы)\SampleAsync\SampleAsync\bin\Debug\net8.0\SampleAsync.runtimeconfig.json
+D:\ADO.Net\MVS projects\Модуль 3 (Фабрика, асинхронные методы)\SampleAsync\SampleAsync\bin\Debug\net8.0\SampleAsync.dll
+D:\ADO.Net\MVS projects\Модуль 3 (Фабрика, асинхронные методы)\SampleAsync\SampleAsync\bin\Debug\net8.0\SampleAsync.pdb
+D:\ADO.Net\MVS projects\Модуль 3 (Фабрика, асинхронные методы)\SampleAsync\SampleAsync\obj\Debug\net8.0\SampleAsync.GeneratedMSBuildEditorConfig.editorconfig
+D:\ADO.Net\MVS projects\Модуль 3 (Фабрика, асинхронные методы)\SampleAsync\SampleAsync\obj\Debug\net8.0\SampleAsync.AssemblyInfoInputs.cache
+D:\ADO.Net\MVS projects\Модуль 3 (Фабрика, асинхронные методы)\SampleAsync\SampleAsync\obj\Debug\net8.0\SampleAsync.AssemblyInfo.cs
+D:\ADO.Net\MVS projects\Модуль 3 (Фабрика, асинхронные методы)\SampleAsync\SampleAsync\obj\Debug\net8.0\SampleAsync.csproj.CoreCompileInputs.cache
+D:\ADO.Net\MVS projects\Модуль 3 (Фабрика, асинхронные методы)\SampleAsync\SampleAsync\obj\Debug\net8.0\SampleAsync.sourcelink.json
+D:\ADO.Net\MVS projects\Модуль 3 (Фабрика, асинхронные методы)\SampleAsync\SampleAsync\obj\Debug\net8.0\SampleAsync.dll
+D:\ADO.Net\MVS projects\Модуль 3 (Фабрика, асинхронные методы)\SampleAsync\SampleAsync\obj\Debug\net8.0\refint\SampleAsync.dll
+D:\ADO.Net\MVS projects\Модуль 3 (Фабрика, асинхронные методы)\SampleAsync\SampleAsync\obj\Debug\net8.0\SampleAsync.pdb
+D:\ADO.Net\MVS projects\Модуль 3 (Фабрика, асинхронные методы)\SampleAsync\SampleAsync\obj\Debug\net8.0\SampleAsync.genruntimeconfig.cache
+D:\ADO.Net\MVS projects\Модуль 3 (Фабрика, асинхронные методы)\SampleAsync\SampleAsync\obj\Debug\net8.0\ref\SampleAsync.dll
