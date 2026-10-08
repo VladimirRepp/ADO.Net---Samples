@@ -1,0 +1,10 @@
+E:\MVS\MVS 2022\Projects\C#\ItTop\ADO.Net\1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\MVS\MVS 2022\Projects\C#\ItTop\ADO.Net\1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\MVS\MVS 2022\Projects\C#\ItTop\ADO.Net\1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\MVS\MVS 2022\Projects\C#\ItTop\ADO.Net\1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\MVS\MVS 2022\Projects\C#\ItTop\ADO.Net\1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\MVS\MVS 2022\Projects\C#\ItTop\ADO.Net\1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\MVS\MVS 2022\Projects\C#\ItTop\ADO.Net\1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\MVS\MVS 2022\Projects\C#\ItTop\ADO.Net\1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\MVS\MVS 2022\Projects\C#\ItTop\ADO.Net\1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\MVS\MVS 2022\Projects\C#\ItTop\ADO.Net\1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

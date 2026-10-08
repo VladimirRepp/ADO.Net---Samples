@@ -1,0 +1,24 @@
+E:\MVS\MVS 2022\Projects\C#\ItTop\ADO.Net\Модуль 1\Sample_2\Sample_2\bin\Debug\Sample_2.exe.config
+E:\MVS\MVS 2022\Projects\C#\ItTop\ADO.Net\Модуль 1\Sample_2\Sample_2\bin\Debug\Sample_2.exe
+E:\MVS\MVS 2022\Projects\C#\ItTop\ADO.Net\Модуль 1\Sample_2\Sample_2\bin\Debug\Sample_2.pdb
+E:\MVS\MVS 2022\Projects\C#\ItTop\ADO.Net\Модуль 1\Sample_2\Sample_2\obj\Debug\Sample_2.csproj.AssemblyReference.cache
+E:\MVS\MVS 2022\Projects\C#\ItTop\ADO.Net\Модуль 1\Sample_2\Sample_2\obj\Debug\Sample_2.Form1.resources
+E:\MVS\MVS 2022\Projects\C#\ItTop\ADO.Net\Модуль 1\Sample_2\Sample_2\obj\Debug\Sample_2.Properties.Resources.resources
+E:\MVS\MVS 2022\Projects\C#\ItTop\ADO.Net\Модуль 1\Sample_2\Sample_2\obj\Debug\Sample_2.csproj.GenerateResource.cache
+E:\MVS\MVS 2022\Projects\C#\ItTop\ADO.Net\Модуль 1\Sample_2\Sample_2\obj\Debug\Sample_2.csproj.CoreCompileInputs.cache
+E:\MVS\MVS 2022\Projects\C#\ItTop\ADO.Net\Модуль 1\Sample_2\Sample_2\obj\Debug\Sample_2.exe
+E:\MVS\MVS 2022\Projects\C#\ItTop\ADO.Net\Модуль 1\Sample_2\Sample_2\obj\Debug\Sample_2.pdb
+E:\MVS\MVS 2022\Projects\C#\ItTop\ADO.Net\Модуль 1\Sample_2\Sample_2\obj\Debug\Sample_2.Form2.resources
+E:\MVS\MVS 2022\Projects\C#\ItTop\ADO.Net\Модуль 1\Sample_2\Sample_2\obj\Debug\Sample_2.Form3.resources
+D:\ADO.Net\MVS projects\Модуль 1, 2 (Присоедененный, отсоедененный режим)\Sample_2\Sample_2\bin\Debug\Sample_2.exe.config
+D:\ADO.Net\MVS projects\Модуль 1, 2 (Присоедененный, отсоедененный режим)\Sample_2\Sample_2\bin\Debug\Sample_2.exe
+D:\ADO.Net\MVS projects\Модуль 1, 2 (Присоедененный, отсоедененный режим)\Sample_2\Sample_2\bin\Debug\Sample_2.pdb
+D:\ADO.Net\MVS projects\Модуль 1, 2 (Присоедененный, отсоедененный режим)\Sample_2\Sample_2\obj\Debug\Sample_2.csproj.AssemblyReference.cache
+D:\ADO.Net\MVS projects\Модуль 1, 2 (Присоедененный, отсоедененный режим)\Sample_2\Sample_2\obj\Debug\Sample_2.Form1.resources
+D:\ADO.Net\MVS projects\Модуль 1, 2 (Присоедененный, отсоедененный режим)\Sample_2\Sample_2\obj\Debug\Sample_2.Form2.resources
+D:\ADO.Net\MVS projects\Модуль 1, 2 (Присоедененный, отсоедененный режим)\Sample_2\Sample_2\obj\Debug\Sample_2.Form3.resources
+D:\ADO.Net\MVS projects\Модуль 1, 2 (Присоедененный, отсоедененный режим)\Sample_2\Sample_2\obj\Debug\Sample_2.Properties.Resources.resources
+D:\ADO.Net\MVS projects\Модуль 1, 2 (Присоедененный, отсоедененный режим)\Sample_2\Sample_2\obj\Debug\Sample_2.csproj.GenerateResource.cache
+D:\ADO.Net\MVS projects\Модуль 1, 2 (Присоедененный, отсоедененный режим)\Sample_2\Sample_2\obj\Debug\Sample_2.csproj.CoreCompileInputs.cache
+D:\ADO.Net\MVS projects\Модуль 1, 2 (Присоедененный, отсоедененный режим)\Sample_2\Sample_2\obj\Debug\Sample_2.exe
+D:\ADO.Net\MVS projects\Модуль 1, 2 (Присоедененный, отсоедененный режим)\Sample_2\Sample_2\obj\Debug\Sample_2.pdb
