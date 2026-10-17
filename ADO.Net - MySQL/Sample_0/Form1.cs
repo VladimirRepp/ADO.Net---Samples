@@ -92,6 +92,14 @@ namespace ADO.Net___Sample_0
                     // в поле textBox_FirstName.Text
 
                     int rows = cmd.ExecuteNonQuery();
+                    // Чтобы выполнить команду, необходимо применить один из методов SqlCommand:
+                    // - ExecuteNonQuery()/ExecuteNonQueryAsync(): просто выполняет sql-выражение и в
+                    // озвращает количество измененных записей. Подходит для sql-выражений INSERT, UPDATE, DELETE, CREATE.
+                    // - ExecuteReader()/ExecuteReaderAsync(): выполняет sql-выражение и возвращает строки из таблицы. 
+                    // Подходит для sql-выражения SELECT.
+                    // - ExecuteScalar()/ExecuteScalarAsync(): выполняет sql-выражение и возвращает одно скалярное значение, 
+                    // например, число. Подходит для sql-выражения SELECT в паре с одной из встроенных функций SQL, как например, Min, Max, Sum, Count.
+                    
                     MessageBox.Show($"Строк добавлено: {rows}");
                 }
 
