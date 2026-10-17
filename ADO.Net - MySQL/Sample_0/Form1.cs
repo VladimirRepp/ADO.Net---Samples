@@ -76,7 +76,7 @@ namespace ADO.Net___Sample_0
                     $"INSERT INTO Authors (firstName, lastName) VALUES ('{textBox_FirstName.Text}', '{textBox_LastName.Text}')";
                     // Такой запрос не безопастный 
                     // Попробуйте в textBox_FirstName.Text ввести: 
-                    // '), (NULL, 'x', 'x'); DROP TABLE Authors; -- 
+                    // x', 'x'); DROP TABLE Authors; -- 
                     // Что произошло?
                     
                     // Пример правильной строки запроса (с параметрами/заглушками)
@@ -88,7 +88,7 @@ namespace ADO.Net___Sample_0
                     //cmd.Parameters.AddWithValue("@fn", textBox_FirstName.Text);
                     //cmd.Parameters.AddWithValue("@ln", textBox_LastName.Text);
                     // А что будет сейчас, если ввести: 
-                    // ), (NULL, 'x', 'x'); DROP TABLE Authors; -- 
+                    // x', 'x'); DROP TABLE Authors; -- 
                     // в поле textBox_FirstName.Text
 
                     int rows = cmd.ExecuteNonQuery();
