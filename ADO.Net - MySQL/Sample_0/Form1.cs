@@ -1,5 +1,5 @@
 using System.Data;
-using MySql.Data.MySqlClient; // подключить черезNuGet -> MySQL.Data
+using MySql.Data.MySqlClient; // подключить через NuGet -> MySQL.Data
 
 namespace ADO.Net___Sample_0
 {
