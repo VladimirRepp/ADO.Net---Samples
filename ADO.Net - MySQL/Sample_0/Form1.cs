@@ -80,7 +80,7 @@ namespace ADO.Net___Sample_0
                     // Что произошло?
                     
                     // Пример правильной строки запроса (с параметрами/заглушками)
-                    // $"INSERT INTO Authors (firstName, lastName) VALUES ({textBox_FirstName.Text}, {textBox_LastName.Text})";
+                    // $"INSERT INTO Authors (firstName, lastName) VALUES (@fn, @ln)";
 
                 using (var cmd = new MySqlCommand(sql, _connection))
                 {
