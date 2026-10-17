@@ -1,5 +1,5 @@
 using System.Data;
-using MySql.Data.MySqlClient; // подключили через NuGet -> MySQL.Data
+using MySql.Data.MySqlClient; // РїРѕРґРєР»СЋС‡РёС‚СЊ С‡РµСЂРµР·NuGet -> MySQL.Data
 
 namespace ADO.Net___Sample_0
 {
@@ -19,8 +19,6 @@ namespace ADO.Net___Sample_0
             InitializeComponent();
         }
 
-        // Работа с БД
-        // ============ ПОДКЛЮЧЕНИЕ К БД ============
         private void OpenConnection()
         {
             if (_connection == null)
@@ -30,14 +28,12 @@ namespace ADO.Net___Sample_0
                 _connection.Open();
         }
 
-        // ============ ОТКЛЮЧЕНИЕ ОТ БД ============
         private void CloseConnection()
         {
             if (_connection != null && _connection.State == ConnectionState.Open)
                 _connection.Close();
         }
 
-        // ============ ВЫБОРКА ВСЕХ ДАННЫХ ============
         private void button_Load_Click(object sender, EventArgs e)
         {
             try
@@ -55,7 +51,7 @@ namespace ADO.Net___Sample_0
             }
             catch(Exception ex)
             {
-                MessageBox.Show("Сообщение: " + ex.Message, "Ошибка!");
+                MessageBox.Show("РћС€РёР±РєР°: " + ex.Message, "Р’РЅРёРјР°РЅРёРµ!");
             }
             finally
             {
@@ -63,13 +59,12 @@ namespace ADO.Net___Sample_0
             }
         }
 
-        // ============ ВСТАВКА ============
         private void button_Insert_Click(object sender, EventArgs e)
         {
             if (string.IsNullOrWhiteSpace(textBox_FirstName.Text) ||
                 string.IsNullOrWhiteSpace(textBox_LastName.Text))
             {
-                MessageBox.Show("Заполните имя и фамилию.");
+                MessageBox.Show("РќРµ РІСЃРµ РїРѕР»СЏРЅ РІРІРµРґРµРЅС‹!");
                 return;
             }
 
@@ -86,16 +81,16 @@ namespace ADO.Net___Sample_0
                     cmd.Parameters.AddWithValue("@ln", textBox_LastName.Text);
 
                     int rows = cmd.ExecuteNonQuery();
-                    MessageBox.Show($"Добавлено строк: {rows}");
+                    MessageBox.Show($"РЎС‚СЂРѕРє РґРѕР±Р°РІР»РµРЅРѕ: {rows}");
                 }
 
                 textBox_FirstName.Clear();
                 textBox_LastName.Clear();
-                button_Load_Click(sender, e); // обновить таблицу
+                button_Load_Click(sender, e); 
             }
             catch (Exception ex)
             {
-                MessageBox.Show("Ошибка вставки: " + ex.Message);
+                MessageBox.Show("РћС€РёР±РєР°: " + ex.Message);
             }
             finally
             {
@@ -103,19 +98,18 @@ namespace ADO.Net___Sample_0
             }
         }
 
-        // ============ ОБНОВЛЕНИЕ ============
         private void button_Update_Click(object sender, EventArgs e)
         {
             if (dataGridView.CurrentRow == null)
             {
-                MessageBox.Show("Выберите строку для обновления.");
+                MessageBox.Show("Г‚Г»ГЎГҐГ°ГЁГІГҐ Г±ГІГ°Г®ГЄГі Г¤Г«Гї Г®ГЎГ­Г®ГўГ«ГҐГ­ГЁГї.");
                 return;
             }
 
             if (string.IsNullOrWhiteSpace(textBox_FirstName.Text) ||
                 string.IsNullOrWhiteSpace(textBox_LastName.Text))
             {
-                MessageBox.Show("Заполните имя и фамилию.");
+                MessageBox.Show("Г‡Г ГЇГ®Г«Г­ГЁГІГҐ ГЁГ¬Гї ГЁ ГґГ Г¬ГЁГ«ГЁГѕ.");
                 return;
             }
 
@@ -135,14 +129,14 @@ namespace ADO.Net___Sample_0
                     cmd.Parameters.AddWithValue("@id", id);
 
                     int rows = cmd.ExecuteNonQuery();
-                    MessageBox.Show($"Обновлено строк: {rows}");
+                    MessageBox.Show($"РЎС‚СЂРѕРє РѕР±РЅРѕРІР»РµРЅРѕ: {rows}");
                 }
 
                 button_Load_Click(sender, e);
             }
             catch (Exception ex)
             {
-                MessageBox.Show("Ошибка обновления: " + ex.Message);
+                MessageBox.Show("РћС€РёР±РєР°: " + ex.Message);
             }
             finally
             {
@@ -150,12 +144,11 @@ namespace ADO.Net___Sample_0
             }
         }
 
-        // ============ УДАЛЕНИЕ ============
         private void button_Delete_Click(object sender, EventArgs e)
         {
             if (dataGridView.CurrentRow == null)
             {
-                MessageBox.Show("Выберите строку для обновления.");
+                MessageBox.Show("Р’С‹Р±РµСЂРёС‚Рµ РґР°РЅС‹РЅРµ.");
                 return;
             }
 
@@ -171,14 +164,14 @@ namespace ADO.Net___Sample_0
                 {
                     cmd.Parameters.AddWithValue("@id", id);
                     int rows = cmd.ExecuteNonQuery();
-                    MessageBox.Show($"Удалено строк: {rows}");
+                    MessageBox.Show($"РЎС‚СЂРѕРє СѓРґР°Р»РµРЅРѕ: {rows}");
                 }
 
                 button_Load_Click(sender, e);
             }
             catch (Exception ex)
             {
-                MessageBox.Show("Ошибка удаления: " + ex.Message);
+                MessageBox.Show("РћС€РёР±РєР°: " + ex.Message);
             }
             finally
             {
