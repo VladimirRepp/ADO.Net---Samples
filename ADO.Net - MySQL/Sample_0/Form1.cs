@@ -102,14 +102,14 @@ namespace ADO.Net___Sample_0
         {
             if (dataGridView.CurrentRow == null)
             {
-                MessageBox.Show("Âûáåðèòå ñòðîêó äëÿ îáíîâëåíèÿ.");
+                MessageBox.Show("Выберите строку данных!");
                 return;
             }
 
             if (string.IsNullOrWhiteSpace(textBox_FirstName.Text) ||
                 string.IsNullOrWhiteSpace(textBox_LastName.Text))
             {
-                MessageBox.Show("Çàïîëíèòå èìÿ è ôàìèëèþ.");
+                MessageBox.Show("Не все данные введены!");
                 return;
             }
 
