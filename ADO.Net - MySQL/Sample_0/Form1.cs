@@ -73,7 +73,7 @@ namespace ADO.Net___Sample_0
                 OpenConnection();
 
                 const string sql =
-                    $"INSERT INTO Authors (firstName, lastName) VALUES ({textBox_FirstName.Text}, {textBox_LastName.Text})";
+                    $"INSERT INTO Authors (firstName, lastName) VALUES ('{textBox_FirstName.Text}', '{textBox_LastName.Text}')";
                     // Такой запрос не безопастный 
                     // Попробуйте в textBox_FirstName.Text ввести: 
                     // '), (NULL, 'x', 'x'); DROP TABLE Authors; -- 
