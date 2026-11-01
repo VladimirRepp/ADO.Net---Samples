@@ -17,7 +17,7 @@ namespace Sample_1
     {
         private DbConnection _dbConnection = null;
         private DbProviderFactory _dbProviderFactory = null;
-        private string _providerName = "";
+        private string _connectionString = "";
 
         public Form1()
         {
@@ -74,8 +74,8 @@ namespace Sample_1
         {
             _dbProviderFactory = DbProviderFactories.GetFactory(comboBox_Providers.SelectedItem.ToString());
             _dbConnection = _dbProviderFactory.CreateConnection();
-            _providerName = GetConnectionStringByProvider(comboBox_Providers.SelectedItem.ToString());
-            textBox_ConnectionString.Text = _providerName;
+            _connectionString = GetConnectionStringByProvider(comboBox_Providers.SelectedItem.ToString());
+            textBox_ConnectionString.Text = _connectionString;
         }
 
         private void button_Request_Click(object sender, EventArgs e)
