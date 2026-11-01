@@ -9,7 +9,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using static System.Windows.Forms.VisualStyles.VisualStyleElement;
-using System.Configuration; // добавить через ССЫДКИ проекта
+using System.Configuration; // добавить пакет NuGET -> ConfigurationManager
 
 namespace Sample_1
 {
@@ -56,6 +56,7 @@ namespace Sample_1
 
         private void button_GetAllProviders_Click(object sender, EventArgs e)
         {
+            // 0. Подключить пакет ConfigurationManager, чтобы DbProviderFactories забрал данные из App.config
             // 1. Получить всех провайдеров 
             // 2. Вывести их в comboBox_Providers
         
