@@ -56,6 +56,9 @@ namespace Sample_1
 
         private void button_GetAllProviders_Click(object sender, EventArgs e)
         {
+            // 1. Получить всех провайдеров 
+            // 2. Вывести их в comboBox_Providers
+        
             DataTable t = DbProviderFactories.GetFactoryClasses();
             dataGridView.DataSource = t;
             comboBox_Providers.Items.Clear();
